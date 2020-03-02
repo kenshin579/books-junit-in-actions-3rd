@@ -1,0 +1,52 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>kr.pe.advenoh</groupId>
+    <artifactId>books-junit-in-actions-3rd</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>books-junit-in-actions-3rd</name>
+
+    <modules>
+        <module>ch01-jumpstart</module>
+        <module>ch02-core</module>
+        <module>ch03-architecture</module>
+        <module>ch04-migrating</module>
+        <module>ch07-stubs</module>
+        <module>ch08-mocks</module>
+        <module>ch09-incontainer</module>
+        <module>ch10-maven</module>
+        <module>ch10-maven-flightsmanagement/flightsmanagement</module>
+        <module>ch12-ide</module>
+        <module>ch13-continuous</module>
+        <module>ch14-extensions</module>
+        <module>ch16-spring/ch16-spring-junit4</module>
+        <module>ch16-spring/ch16-spring-junit5</module>
+        <module>ch16-spring/ch16-spring-junit5-new-feature</module>
+        <module>ch16-spring/ch16-traditional</module>
+        <module>ch17-spring-boot/ch17-spring-boot-beans</module>
+        <module>ch17-spring-boot/ch17-spring-boot-initializr</module>
+        <module>ch17-spring-boot/ch17-spring-boot-initializr-old-feature</module>
+        <module>ch17-spring-boot/ch17-spring-boot-new-feature</module>
+        <module>ch19-databases/hibernate</module>
+        <module>ch19-databases/jdbc</module>
+        <module>ch19-databases/spring-hibernate</module>
+        <module>ch19-databases/spring-jdbc</module>
+        <module>ch20-tdd/Before</module>
+        <module>ch20-tdd/Phase1</module>
+        <module>ch20-tdd/Phase2</module>
+        <module>ch20-tdd/Phase3</module>
+        <module>ch20-tdd/Phase4</module>
+        <module>ch20-tdd/Phase5</module>
+        <module>ch21-bdd/Phase1</module>
+        <module>ch21-bdd/Phase2</module>
+        <module>ch21-bdd/Phase3</module>
+        <module>ch21-bdd/Phase4</module>
+        <module>ch21-bdd/Phase5</module>
+        <module>ch22-testpyramid/Phase1/airport</module>
+        <module>ch22-testpyramid/Phase2/airport</module>
+        <module>ch22-testpyramid/Phase3/airport</module>
+        <module>ch22-testpyramid/Phase4/airport</module>
+        <module>ch22-testpyramid/Phase5/airport</module>
+    </modules>
+</project>
